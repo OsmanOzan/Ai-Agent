@@ -3,6 +3,8 @@ Ai agent Project for Assignment 2
 
 https://youtu.be/_yid6CAaoAk
 
+https://github.com/OsmanOzan/Ai-Agent.git
+
 I developed a chat application based on React.
 Users can log in; upon login, a JWT token is obtained and I store it in localStorage.
 There is a chat interface on the main page. When a user sends a message:
